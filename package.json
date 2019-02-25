@@ -1,0 +1,21 @@
+{
+  "name": "amtb",
+  "version": "1.0.0",
+  "description": "网上的学佛资料以及自己一点浅薄的修行经验",
+  "scripts": {
+    "test": "echo \"nothing to test!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/amtb.git"
+  },
+  "author": "wangding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangding/amtb/issues"
+  },
+  "homepage": "https://github.com/wangding/amtb#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
