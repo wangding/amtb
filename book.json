@@ -1,0 +1,56 @@
+{
+  "title": "amtb",
+  "description" : "学佛资料",
+  "author": "王顶",
+  "language": "zh-hans",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "-highlight",
+    "-sharing",
+    "books",
+    "edit-link",
+    "sharing-plus",
+    "github-buttons@2.1.0"
+  ],
+  "pluginsConfig": {
+    "books": {
+      "prism_themes": "prismjs/themes/prism.css",
+      "github_url": "https://github.com/wangding/amtb"
+    },
+    "theme-default": {
+      "showLevel": false
+    },
+    "github-buttons": {
+      "repo": "wangding/amtb",
+      "types": ["star"],
+      "size": "small"
+    },
+    "edit-link": {
+      "base": "https://github.com/wangding/amtb/blob/master/",
+      "label": "编辑本页"
+    },
+    "sharing": {
+      "douban": true,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "weibo", "douban", "qzone", "qq"
+      ]
+    }
+  }
+}

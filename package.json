@@ -1,7 +1,7 @@
 {
   "name": "amtb",
   "version": "1.0.0",
-  "description": "网上的学佛资料以及自己一点浅薄的修行经验",
+  "description": "修行资料",
   "scripts": {
     "test": "echo \"nothing to test!\" && exit 0"
   },
@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/wangding/amtb#readme",
   "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "books-cli": "^1.0.21"
   }
 }
