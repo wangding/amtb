@@ -7,4 +7,5 @@
 - [八十八佛忏](./docs/ba-shi-ba-fo-chan.md)
 - [报父母恩咒](./docs/bao-fu-mu-en-zhou.md)
 - [八大人觉经](./docs/ba-da-ren-jue-jing.md)
+- [百法明门论](./docs/bai-fa-ming-men-lun.md)
 - [妙法莲华经](./docs/fa-hua-jing.md)
