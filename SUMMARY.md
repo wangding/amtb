@@ -1,6 +1,7 @@
 # 目录
 
 - [简介](README.md)
+- [般若波罗蜜多心经](./docs/xin-jing.md)
 - [净土发愿文](./docs/jing-tu-fa-yuan-wen.md)
 - [净修捷要](./docs/jing-xiu-jie-yao.md)
 - [八十八佛忏](./docs/ba-shi-ba-fo-chan.md)
