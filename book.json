@@ -8,23 +8,27 @@
     "-search",
     "-highlight",
     "-sharing",
-    "books",
     "edit-link",
+    "forkmegithub",
+    "search-plus",
     "sharing-plus",
-    "github-buttons@2.1.0"
+    "anchor-navigation-ex",
+    "github-buttons@2.1.0",
+    "splitter",
+    "bsz"
   ],
   "pluginsConfig": {
-    "books": {
-      "prism_themes": "prismjs/themes/prism.css",
-      "github_url": "https://github.com/wangding/amtb"
-    },
-    "theme-default": {
-      "showLevel": false
+    "anchor-navigation-ex": {
+      "multipleH1": false
     },
     "github-buttons": {
       "repo": "wangding/amtb",
       "types": ["star"],
       "size": "small"
+    },
+    "forkmegithub": {
+      "url": "https://github.com/wangding/amtb",
+      "color": "red"
     },
     "edit-link": {
       "base": "https://github.com/wangding/amtb/blob/master/",
@@ -51,6 +55,9 @@
       "all": [
         "weibo", "douban", "qzone", "qq"
       ]
+    },
+    "bsz": {
+      "copyright": "2018&nbsp;-&nbsp;<span class=\"bsz-this-year\"></span>&nbsp;by&nbsp;<a href=\"https://i.wangding.in\">王顶</a>.&nbsp;All rights reserved."
     }
   }
 }
