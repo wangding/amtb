@@ -6,6 +6,7 @@
 - [净修捷要](./docs/jing-xiu-jie-yao.md)
 - [八十八佛忏](./docs/ba-shi-ba-fo-chan.md)
 - [报父母恩咒](./docs/bao-fu-mu-en-zhou.md)
+- [十善业道经](./docs/shi-shan-ye-dao-jing.md)
 - [佛说阿弥陀经](./docs/mi-tuo-jing.md)
 - [普门品](./docs/pu-men-pin.md)
 - [八大人觉经](./docs/ba-da-ren-jue-jing.md)
