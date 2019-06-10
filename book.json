@@ -15,9 +15,17 @@
     "anchor-navigation-ex",
     "github-buttons@2.1.0",
     "splitter",
-    "bsz"
+    "bsz",
+    "gtalk"
   ],
   "pluginsConfig": {
+    "gtalk": {
+      "clientID": "37f41d79eae64fe04b8e",
+      "clientSecret": "a906f1f97000dc3b4ccc9e607deace48c691459f",
+      "repo": "amtb",
+      "owner": "wangding",
+      "admin": ["wangding"]
+    },
     "anchor-navigation-ex": {
       "multipleH1": false
     },
