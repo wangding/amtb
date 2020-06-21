@@ -14,3 +14,4 @@
 - [八大人觉经](./docs/ba-da-ren-jue-jing.md)
 - [百法明门论](./docs/bai-fa-ming-men-lun.md)
 - [妙法莲华经](./docs/fa-hua-jing.md)
+- [我的禅修仪轨](./docs/chan-xiu-yi-gui.md)
