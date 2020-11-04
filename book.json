@@ -13,7 +13,6 @@
     "search-plus",
     "sharing-plus",
     "anchor-navigation-ex",
-    "github-buttons@2.1.0",
     "splitter",
     "bsz",
     "gtalk"
@@ -28,11 +27,6 @@
     },
     "anchor-navigation-ex": {
       "multipleH1": false
-    },
-    "github-buttons": {
-      "repo": "wangding/amtb",
-      "types": ["star"],
-      "size": "small"
     },
     "forkmegithub": {
       "url": "https://github.com/wangding/amtb",
